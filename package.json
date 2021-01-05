@@ -31,7 +31,7 @@
     "swagger-ui-express": "^4.1.2",
     "typeorm": "^0.2.20",
     "class-validator": "latest",
-    "axios": "^0.19.1"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.9.0",
